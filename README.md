@@ -1,2 +1,2 @@
-# Intro2QuantumComputing
-CSCI 4961 Introduction to Quantum Computing
+# Introduction to Quantum Computing (CSCI 4961)
+
