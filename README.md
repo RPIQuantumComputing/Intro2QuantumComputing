@@ -8,4 +8,6 @@ Quantum information is both a concept and a framework for modeling and describin
 
 1. Single system
 2. Multiple systems
+3. Quantum circuits
+4. Entanglement in action
    
